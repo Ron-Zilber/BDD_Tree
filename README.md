@@ -19,3 +19,6 @@ The result will be false or true.
 
 4. reverseIteration(LeafPtr) -> Res:
   This function accepts a list ("pointer") that has been returened from listOfLeaves function, and returns the list of nodes on the shortest path to the root.
+  
+  
+  to use this code, compile the BDD_Tree.erl file on your machine, create a boolean function by the structure that has been defined in the pdf file and call function (1) from you linux shell. After this step, use the returened tree as an input to function (2), (3), and use the returned value from function (3) as an input to function (4).
